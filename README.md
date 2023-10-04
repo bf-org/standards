@@ -3,5 +3,4 @@
 ## Markdown
 
 - **Badges**
-  - **Programming Languages**
-    - [Flat Badge](./md/badges/prog_lang/flat_badge.md)
+  - [Programming Languages](./md/badges/prog_lang.md)
