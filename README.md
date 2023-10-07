@@ -3,6 +3,7 @@
 ## Markdown
 
 - **Badges**
+  - [Languages](./md/badges/languages.md)
   - [Programming Languages](./md/badges/prog_lang.md)
   - [Tools & Services](./md/badges/tools_services.md)
   - Tools
