@@ -11,3 +11,4 @@
     - [Ruby](./md/badges/tools/ruby.md)
     - [JavaScript](./md/badges/tools/javascript.md)
   - [RubyGems](./md/badges/ruby_gems.md)
+  - [Web](./md/badges/web.md)
